@@ -1,0 +1,7 @@
+fastapi==0.70.0
+uvicorn==0.15.0
+SQLAlchemy==1.4.25
+pydantic==1.8.2
+databases==0.5.2  # Use a newer version that supports SQLAlchemy 1.4
+asyncpg==0.23.0
+psycopg2==2.9.1
